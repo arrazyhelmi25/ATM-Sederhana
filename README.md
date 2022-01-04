@@ -14,15 +14,15 @@ Untuk menggunakan aplikasi ini, bisa melalui dua cara:
 2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code yang ada.
 
 ## Penggunaan
-[Turunan1](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/login.png)
-[Turunan2](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm.png)
-[Turunan3](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/menu.png)
-[Turunan4](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm1.png)
-[Turunan5](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm2.png)
-[Turunan6](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm3.png)
-[Turunan7](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm4.png)
-[Turunan8](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm5.png)
-[Turunan9](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm6.png)
+![Turunan1](img/login.png)
+![Turunan2](img/atm.png)
+![Turunan3](img/menu.png)
+![Turunan4](img/atm1.png)
+![Turunan5](img/atm2.png)
+![Turunan6](img/atm3.png)
+![Turunan7](img/atm4.png)
+![Turunan8](img/atm5.png)
+![Turunan9](img/atm6.png)
 
 ## Pembuat Aplikasi
 1. Helmi Arrazy (1806200141)
