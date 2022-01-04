@@ -10,19 +10,19 @@ This program is created for our mid-term project in campus. This program works a
 
 ## Instalasi
 Untuk menggunakan aplikasi ini, bisa melalui dua cara:
-1. Mengunduh [aplikasi disini](https://github.com/lonewarriorHX/ATM-sederhana.git). Pastikan sistem operasi yang digunakan adalah Windows.Lalu buka lewat ATMhh.exe
+1. Mengunduh [aplikasi disini](https://github.com/arrazyhelmi25/ATM-Sederhana.git). Pastikan sistem operasi yang digunakan adalah Windows.Lalu buka lewat ATMhh.exe
 2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code yang ada.
 
 ## Penggunaan
-![Turunan1](login.png)
-![Turunan2](atm.png)
-![Turunan3](menu.png)
-![Turunan4](atm1.png)
-![Turunan5](atm2.png)
-![Turunan6](atm3.png)
-![Turunan7](atm4.png)
-![Turunan8](atm5.png)
-![Turunan9](atm6.png)
+![Turunan1](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/login.png)
+![Turunan2](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm.png)
+![Turunan3](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/menu.png)
+![Turunan4](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm1.png)
+![Turunan5](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm2.png)
+![Turunan6](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm3.png)
+![Turunan7](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm4.png)
+![Turunan8](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm5.png)
+![Turunan9](https://github.com/arrazyhelmi25/ATM-Sederhana/tree/master/img/atm6.png)
 
 ## Pembuat Aplikasi
 1. Helmi Arrazy (1806200141)
